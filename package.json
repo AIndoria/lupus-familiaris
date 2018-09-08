@@ -1,0 +1,33 @@
+{
+  "name": "lupusfamiliaris",
+  "version": "1.0.0",
+  "description": "Lupus Familiaris, adopt your next friend today!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aindoria/lupus-familiaris.git"
+  },
+  "keywords": [
+    "pet",
+    "adoption",
+    "dogs",
+    "cats",
+    "rescue"
+  ],
+  "author": "Abhishek Indoria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aindoria/lupus-familiaris/issues"
+  },
+  "homepage": "https://github.com/aindoria/lupus-familiaris#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.1.5",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-watch": "^5.0.1",
+    "postcss-nested": "^3.0.0"
+  }
+}
